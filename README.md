@@ -6,7 +6,7 @@ Hi there! I'm **Rishi**, a passionate **Android Developer**, **Full Stack Web De
 
 ## 💼 What I Do
 - **Android Development** with Java & Kotlin using Android Studio  
-- **Full Stack Web Development** using HTML, CSS, JS, Bootstrap, Node.js, Express.js & MySQL  
+- **Full Stack Web Development** using HTML, CSS, JS, Bootstrap, Tailwind CSS, Node.js, Express.js & MySQL  
 - **UI/UX Design** using Figma, Adobe XD, and Adobe Photoshop  
 - Crafting scalable apps & responsive websites with modern design principles  
 - Exploring APIs, databases, authentication systems, and cloud integrations  
@@ -44,10 +44,24 @@ Hi there! I'm **Rishi**, a passionate **Android Developer**, **Full Stack Web De
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishishinde08&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishi-123&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi-123&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishishinde08&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishishinde08&theme=radical" />
+</p>
+
+---
+
+## 📊 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishishinde08&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -58,6 +72,10 @@ Hi there! I'm **Rishi**, a passionate **Android Developer**, **Full Stack Web De
  <a href="mailto:rishikeshs2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  <a href="https://www.instagram.com/rishishinde.8"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Rishishinde08&color=blueviolet)
 
 ---
 
