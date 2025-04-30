@@ -57,12 +57,6 @@ Hi there! I'm **Rishi**, a passionate **Android Developer**, **Full Stack Web De
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishishinde08&theme=radical" />
 </p>
 
----
-
-## 📊 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishishinde08&layout=compact&theme=radical" />
-</p>
 
 ---
 
