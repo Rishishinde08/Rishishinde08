@@ -44,15 +44,6 @@ Hi there! I'm **Rishi**, a passionate **Android Developer**, **Full Stack Web De
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Rishishinde08)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-</p>
-
----
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rishishinde08&show_icons=true&theme=radical" />
