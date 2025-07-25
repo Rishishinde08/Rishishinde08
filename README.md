@@ -6,7 +6,7 @@ Hi there! I'm **Rishi**, a passionate **Android Developer**, **Full Stack Web De
 
 ## 💼 What I Do
 - **Android Development** with Java & Kotlin using Android Studio  
-- **Full Stack Web Development** using HTML, CSS, JS, Bootstrap, Tailwind CSS, Node.js, Express.js & MySQL  
+- **Full Stack Web Development** using HTML, CSS, JS, Bootstrap, Tailwind CSS, Node.js, Express.js & MySQL, Mongodb  
 - **UI/UX Design** using Figma, Adobe XD, and Adobe Photoshop  
 - Crafting scalable apps & responsive websites with modern design principles  
 - Exploring APIs, databases, authentication systems, and cloud integrations  
@@ -33,6 +33,7 @@ Hi there! I'm **Rishi**, a passionate **Android Developer**, **Full Stack Web De
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
